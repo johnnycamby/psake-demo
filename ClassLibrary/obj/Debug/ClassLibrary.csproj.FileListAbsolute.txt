@@ -1,0 +1,5 @@
+D:\DEV\CSHARP\intermediates\psake\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\DEV\CSHARP\intermediates\psake\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\DEV\CSHARP\intermediates\psake\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+D:\DEV\CSHARP\intermediates\psake\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\DEV\CSHARP\intermediates\psake\ClassLibrary\obj\Debug\ClassLibrary.pdb

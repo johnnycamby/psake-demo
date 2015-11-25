@@ -1,0 +1,6 @@
+D:\DEV\CSHARP\intermediates\psake\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+D:\DEV\CSHARP\intermediates\psake\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+D:\DEV\CSHARP\intermediates\psake\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+D:\DEV\CSHARP\intermediates\psake\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+D:\DEV\CSHARP\intermediates\psake\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\DEV\CSHARP\intermediates\psake\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

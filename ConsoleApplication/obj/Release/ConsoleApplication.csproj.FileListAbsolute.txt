@@ -1,0 +1,5 @@
+D:\DEV\CSHARP\intermediates\psake\.build\temp\ConsoleApplication.exe.config
+D:\DEV\CSHARP\intermediates\psake\.build\temp\ConsoleApplication.exe
+D:\DEV\CSHARP\intermediates\psake\.build\temp\ConsoleApplication.pdb
+D:\DEV\CSHARP\intermediates\psake\ConsoleApplication\obj\Release\ConsoleApplication.exe
+D:\DEV\CSHARP\intermediates\psake\ConsoleApplication\obj\Release\ConsoleApplication.pdb

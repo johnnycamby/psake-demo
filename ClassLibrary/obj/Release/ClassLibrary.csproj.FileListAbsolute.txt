@@ -1,0 +1,4 @@
+D:\DEV\CSHARP\intermediates\psake\.build\temp\ClassLibrary.dll
+D:\DEV\CSHARP\intermediates\psake\.build\temp\ClassLibrary.pdb
+D:\DEV\CSHARP\intermediates\psake\ClassLibrary\obj\Release\ClassLibrary.dll
+D:\DEV\CSHARP\intermediates\psake\ClassLibrary\obj\Release\ClassLibrary.pdb

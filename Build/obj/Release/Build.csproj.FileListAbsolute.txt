@@ -1,0 +1,5 @@
+D:\DEV\CSHARP\intermediates\psake\.build\temp\Build.dll
+D:\DEV\CSHARP\intermediates\psake\.build\temp\Build.pdb
+D:\DEV\CSHARP\intermediates\psake\Build\obj\Release\Build.csprojResolveAssemblyReference.cache
+D:\DEV\CSHARP\intermediates\psake\Build\obj\Release\Build.dll
+D:\DEV\CSHARP\intermediates\psake\Build\obj\Release\Build.pdb
